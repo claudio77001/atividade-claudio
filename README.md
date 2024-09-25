@@ -35,4 +35,5 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 Contato
 Claudio Jose
 claudiopopbr@gmail.com
+
 https://www.linkedin.com/in/cl%C3%A1udio-rodrigues-52275b251/
