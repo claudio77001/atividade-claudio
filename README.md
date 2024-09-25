@@ -16,7 +16,7 @@ Likes nos posts
 Instalação
 Clone o repositório:
 
-git clone https://github.com/leandrucarvalho/clone-instagram-softex.git
+git clone https://github.com/claudio77001/atividade-claudio.git 
 Navegue até o diretório do projeto:
 
 cd clone-instagram-softex
